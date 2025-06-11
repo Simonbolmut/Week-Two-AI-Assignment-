@@ -1,0 +1,23 @@
+Week 2 Assignment: AI for Sustainable Development – My Responses
+1. What is the connection between AI/Machine Learning and the UN Sustainable Development Goals (SDGs)?
+AI and machine learning can help accelerate progress toward the UN SDGs by making systems smarter, more efficient, and data-driven. For example, AI can analyze environmental data to combat climate change, optimize resources in agriculture to fight hunger, or predict disease outbreaks to improve health systems. I realized that AI isn’t just a tech tool—it can be a powerful force for global good when aligned with the right goals.
+
+2. Choose one SDG and explain how AI could contribute to achieving it.
+I chose SDG 13: Climate Action. AI can help address climate change by modeling weather patterns, forecasting extreme events, and optimizing energy use. For example, machine learning algorithms can analyze satellite data to detect deforestation or carbon emissions in real-time. AI can also help predict renewable energy production, making clean energy grids more efficient and reliable. It’s clear to me that AI has the potential to make a real impact in fighting climate change.
+
+3. What are potential risks of using AI for social impact projects like the SDGs?
+While AI offers a lot of promise, I also recognize the risks. One major issue is bias in data, which can lead to unfair or discriminatory outcomes. Also, in some areas, people may not fully understand or trust AI, which can create resistance. There’s also the danger of over-relying on automation without human oversight. For AI to be truly helpful, it needs to be transparent, ethical, and inclusive—especially in high-impact areas like health, education, and the environment.
+
+4. Which AI techniques are most relevant for sustainable development projects, and why?
+I found that machine learning, natural language processing (NLP), and computer vision are the most relevant.
+
+Machine learning is great for pattern recognition and predictions—perfect for early warning systems or resource optimization.
+
+NLP can analyze large volumes of reports, surveys, and open text to understand community needs or policy impacts.
+
+Computer vision is powerful for monitoring environmental changes, such as tracking pollution or crop health via drone imagery.
+These techniques can turn massive data into actionable insights for decision-makers.
+
+5. If you were to build an AI project for sustainability, what would it be?
+I would build an AI-powered platform that helps small farmers adapt to climate change. It would use satellite data, weather forecasts, and soil sensors to give farmers real-time advice on what to plant, when to irrigate, and how to protect crops from extreme weather. This kind of tool could improve food security, reduce waste, and empower communities with limited resources—all while using AI for a positive environmental impact.
+
